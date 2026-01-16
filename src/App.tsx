@@ -10,7 +10,8 @@ function App() {
     
     <BrowserRouter>
       <nav>
-        <Link to="/">목록</Link>
+        <Link to="/">목록 </Link>
+        <br/>
         <Link to="/create">작성</Link>
       </nav>
       <Routes>
